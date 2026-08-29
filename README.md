@@ -5,7 +5,7 @@ Here's how to set each program up:
 WHEELRO-NEUTRALINTELLIGENCE.ZIP:
   1. Download the .zip file
   2. Decompress it
-  3. Open http://studio.penguinmod.com/editor.html/
+  3. Open http://www.studio.penguinmod.com/editor.html/
   4. Select "File" then "Load from your computer"
   5. Double-click on the .pmp file
   6. Click on the button "IMPORT DATA" in the scene
@@ -15,7 +15,7 @@ WHEELRO-NEUTRALINTELLIGENCE.ZIP:
 
 MyColor.pmp:
   1. Download the .pmp file
-  2. Head to http://studio.penguinmod.com/editor.html/
+  2. Head to http://www.studio.penguinmod.com/editor.html/
   3. Load the .pmp as the scene/project
   4. Press the Green Flag icon to begin!
 
