@@ -22,6 +22,8 @@ MyColor.pmp:
 MyDraw.zip:
   1. Download and decompress the .zip
   2. Double-click on the index.html inside the folder
-  3. Click on "Open Images" or "Import Images"
-  4. Import all the dog images to begin.
-  5. Press on "Clear Canvas", and then click on ""
+  3. Click on "Browse..."
+  4. Import all the dog images to begin, located inside the "Images To Try" folder.
+  5. Press on "Clear Canvas", and then click on "Draw an image."
+  6. Watch as the image is drawn in real-time.
+  7. Where it says "Balanced", click on that to change the filter.
